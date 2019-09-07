@@ -1,0 +1,3 @@
+# obvious stuff we'll need
+numpy
+black
